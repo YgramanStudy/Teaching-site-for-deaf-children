@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="5a55aba5-5d07-4836-a634-403376e2b576" />
+          <option name="name" value="MySQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$USER_HOME$/Desktop/Project/MySQL.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
